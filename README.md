@@ -10,7 +10,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
 
 <p align="left">
   <img width="10" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzhsnlVVQ1PCnMjdoBqFtQJILUpyPKVEGqg&s" height="40" alt="Flutter" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="8" />
@@ -34,7 +34,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <a href="https://github.com/syedBahadarKhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="bahadardeveloper@gmail.com" target="_blank">
+  <a href="muhammadrashid172002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
   </a>
 </p>
