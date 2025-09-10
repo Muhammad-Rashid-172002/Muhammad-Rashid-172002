@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rashid</h1>
 
-Hi, I'm **Muhammad Rashid**, a 6th-semester Information Technology student pursuing my Bachelor's degree at **Sarhad University of Science and IT**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*, and **React.js**. Currently, I'm expanding my backend knowledge with **Node.js**, and **MongoDB**, working towards becoming a full-stack developer.
-Hi, I'm **Bahadar Ali**, a 6th-semester Information Technology student pursuing my Bachelor's degree at **Sarhad University of Science and IT**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*, and **React.js**. Currently, I'm expanding my backend knowledge with **Express.js** **Node.js**, and **MongoDB**, working towards becoming a full-stack developer.
+Hi, I'm **Muhammad Rashid**, a Software Engineer with a focus on **Flutter Development**.I have developed strong skills in **Flutter**, **Dart**, and **Firebase** for cross-platform app development, working towards becoming a professional Flutter developer.
 
 I'm looking to collaborate on innovative projects in the web development and tech industry.
 
@@ -11,7 +10,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
 
 <p align="left">
   <img width="10" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5](https://img.icons8.com/color/512/flutter.png)" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="8" />
