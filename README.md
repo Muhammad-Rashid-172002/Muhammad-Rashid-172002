@@ -12,15 +12,11 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="10" /> 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzhsnlVVQ1PCnMjdoBqFtQJILUpyPKVEGqg&s" height="40" alt="Flutter" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZdMC_FB3iUt9yQZujx9L8Etp5FdbP75UJQ&s" height="40" alt="Dart" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7nnk9mPQ8UGkkTMiog5io4dAs5aMrfSAhA&s" height="40" alt="Firebase" />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img width="8" 
+ 
 </p>
 
 ---
