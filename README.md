@@ -16,7 +16,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="8" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7nnk9mPQ8UGkkTMiog5io4dAs5aMrfSAhA&s" height="40" alt="Firebase" />
   <img width="8" />
-   <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source" height="40" alt="VS Code" />
+   <img src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies-thumbnail.png" height="40" alt="VS Code" />
   <img width="8" />
  
 </p>
