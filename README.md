@@ -20,6 +20,8 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="8" />
    <img src="https://play-lh.googleusercontent.com/dWGgMuaN9WwN3Ihha4QMzOI4RtpfrpMhP0jSeqDm5DKnFcv74HvA33Rna4tTKZ8Ifk2E" height="40" alt="andriod" />
   <img width="8" />
+  <img src="https://miro.medium.com/1*UN48oOHFLGMLPZBlvmRkXg.jpeg" height="40" alt="Xcode" />
+  <img width="8" />
  
 </p>
 
