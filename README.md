@@ -20,7 +20,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="8" />
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-NXgo8D3wmELIPGDLu606jin0-WFWM-78w&s" height="40" alt="andriod" />
   <img width="8" />
-  <img src="https://w7.pngwing.com/pngs/505/718/png-transparent-xcode-macos-bigsur-icon-thumbnail.png" alt="Xcode" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw3PelZPPnvMPn_dI3DXc8rdzfSFMu5GjoA&s" alt="Xcode" />
   <img width="8" />
  
 </p>
