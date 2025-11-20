@@ -18,7 +18,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="8" />
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl15638LBK0kjpT6d7iuMBDox9L2rXDJOm_w&s" height="40" alt="VS Code" />
   <img width="8" />
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-NXgo8D3wmELIPGDLu606jin0-WFWM-78w&s" height="40" alt="andriod" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-NXgo8D3wmELIPGDLu606jin0-WFWM-78w&s" height="40" alt="Andriod" />
   <img width="8" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw3PelZPPnvMPn_dI3DXc8rdzfSFMu5GjoA&s" height="40" alt="Xcode" />
   <img width="8" />
