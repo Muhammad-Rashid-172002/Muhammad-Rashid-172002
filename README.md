@@ -12,7 +12,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="10" /> 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzhsnlVVQ1PCnMjdoBqFtQJILUpyPKVEGqg&s" height="40" alt="Flutter" />
   <img width="8" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZdMC_FB3iUt9yQZujx9L8Etp5FdbP75UJQ&s" height="40" alt="Dart" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmShNpfBY1mXvxO4v4ys7ri-mHTjEGpZAGg&s" height="40" alt="Dart" />
   <img width="8" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7nnk9mPQ8UGkkTMiog5io4dAs5aMrfSAhA&s" height="40" alt="Firebase" />
   <img width="8" />
