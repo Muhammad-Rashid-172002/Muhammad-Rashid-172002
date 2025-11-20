@@ -14,7 +14,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img width="8" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmShNpfBY1mXvxO4v4ys7ri-mHTjEGpZAGg&s" height="40" alt="Dart" />
   <img width="8" />
-  <img src="https://img.icons8.com/color/1200/firebase.jpg" height="40" alt="Firebase" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" height="40" alt="Firebase" />
   <img width="8" />
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl15638LBK0kjpT6d7iuMBDox9L2rXDJOm_w&s" height="40" alt="VS Code" />
   <img width="8" />
