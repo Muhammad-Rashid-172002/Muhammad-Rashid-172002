@@ -30,18 +30,18 @@ I'm looking to collaborate on innovative projects in the web development and tec
 ## 📞 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammad-rashid-59062a295/" target="_blank" >
+  <a href="https://www.linkedin.com/in/muhammad-rashid-59062a295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+
   <a href="https://github.com/Muhammad-Rashid-172002" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="muhammadrashid172002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
+
+  <a href="mailto:muhammadrashid172002@gmail.com?subject=Flutter%20Developer%20Opportunity&body=Hello%20Muhammad%20Rashid,%0D%0A%0D%0AI%20reviewed%20your%20Flutter%20projects%20and%20would%20like%20to%20discuss%20an%20opportunity.%0D%0A%0D%0ABest%20regards,">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-
----
 
 ## Profile Views
 
