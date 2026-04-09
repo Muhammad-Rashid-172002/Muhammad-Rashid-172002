@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rashid</h1>
 
-Hi, I'm **Muhammad Rashid**, a Software Engineer with a focus on **Flutter Development**.I have developed strong skills in **Flutter**, **Dart**, and **Firebase** for cross-platform app development, working towards becoming a professional Flutter developer.
+Hi, I’m **Muhammad Rashid**, a Software Engineer specializing in **Flutter Development, AI-powered applications, and cross-platform mobile solutions**. I am passionate about building modern, scalable, and user-friendly apps that combine innovative design with smart technology.
 
-I'm looking to collaborate on innovative projects in the mobile app development and tech industry.
+With strong expertise in **Flutter, Dart, Firebase, and AI integration**, I develop high-performance mobile applications that solve real-world problems and deliver exceptional user experiences. My focus is on creating reliable, efficient, and future-ready digital products tailored to business needs.
+
+I’m always excited to collaborate on innovative projects in mobile app development, AI solutions, and emerging technologies—turning ideas into impactful applications that make a difference.
+
 
 ---
 
