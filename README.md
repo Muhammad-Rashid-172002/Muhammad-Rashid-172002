@@ -66,77 +66,35 @@ I focus on writing clean, maintainable code while delivering modern UI/UX and pr
 
 # 🚀 Services
 
-✅ Flutter App Development
+1. Flutter App Development
 
-✅ Android & iOS Applications
+2. Android & iOS Applications
 
-✅ Desktop Applications
+3. Desktop Applications
 
-✅ Firebase Authentication
+4. Firebase Authentication
 
-✅ Cloud Firestore
+5. Cloud Firestore
 
-✅ Firebase Storage
+6. Firebase Storage
 
-✅ REST API Integration
+7. REST API Integration
 
-✅ AI Integration
+8. AI Integration
 
-✅ Google Maps Integration
+9. Google Maps Integration
 
-✅ Payment Gateway Integration
+10. Payment Gateway Integration
 
-✅ Push Notifications
+11. Push Notifications
 
-✅ Responsive UI/UX
+12. Responsive UI/UX
 
-✅ App Performance Optimization
+13. App Performance Optimization
 
-✅ Google Play Store Deployment
+14. Google Play Store Deployment
 
-✅ Apple App Store Deployment
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Rashid-172002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rashid-172002&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muhammad-Rashid-172002&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Rashid-172002&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Rashid-172002&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+15. Apple App Store Deployment
 
 ---
 
@@ -172,27 +130,8 @@ I focus on writing clean, maintainable code while delivering modern UI/UX and pr
 
 # 🐍 Contribution Snake
 
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Muhammad-Rashid-172002/Muhammad-Rashid-172002/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Muhammad-Rashid-172002/Muhammad-Rashid-172002/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Snake Animation"
-src="https://raw.githubusercontent.com/Muhammad-Rashid-172002/Muhammad-Rashid-172002/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
+ </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" /> </picture> ---
 
 ---
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:6A5ACD&section=footer"/>
-
-</p>
