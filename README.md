@@ -35,61 +35,6 @@ My passion is transforming innovative ideas into elegant digital products that p
 
 ---
 
-# 🚀 Featured Projects
-
-## 📚 IELTS AI Master
-
-AI-powered IELTS preparation application.
-
-### Features
-
-- AI Speaking Practice
-- AI Writing Evaluation
-- Reading & Listening
-- Progress Tracking
-- Firebase Backend
-
----
-
-## 🥗 FitMind AI
-
-AI Calorie Tracker & Nutrition Coach.
-
-### Features
-
-- Food Scanner
-- AI Nutrition Analysis
-- Meal Tracking
-- Health Dashboard
-
----
-
-## 🔧 SkillLink
-
-On-demand Service Marketplace App.
-
-### Features
-
-- Customer & Worker Apps
-- Real-time Chat
-- Firebase
-- Google Maps
-- Job Management
-
----
-
-## 💬 ChatNow
-
-Realtime Flutter Chat Application.
-
-### Features
-
-- Firebase Authentication
-- Realtime Messaging
-- Image Sharing
-- User Profiles
-
----
 
 # 🛠 Languages & Tools
 
@@ -101,47 +46,8 @@ Realtime Flutter Chat Application.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Rashid-172002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rashid-172002&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muhammad-Rashid-172002&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Rashid-172002&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Rashid-172002&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
@@ -183,22 +89,7 @@ Realtime Flutter Chat Application.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Rashid-172002/Muhammad-Rashid-172002/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Rashid-172002/Muhammad-Rashid-172002/output/github-contribution-grid-snake.svg">
-
-<img alt="Snake Animation" src="https://raw.githubusercontent.com/Muhammad-Rashid-172002/Muhammad-Rashid-172002/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</p>
-
+## Profile Views <p align="left"> <img src="https://komarev.com/ghpvc/?username=Waqas-Khan&color=blue" alt="Profile Views" /> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" /> </picture>
 ---
 
 <p align="center">
