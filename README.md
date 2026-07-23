@@ -98,26 +98,6 @@ I focus on writing clean, maintainable code while delivering modern UI/UX and pr
 
 ---
 
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:muhammadrashid172002@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-rashid-59062a295/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Muhammad-Rashid-172002">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
 # 💡 Quote
 
 <p align="center">
@@ -126,12 +106,7 @@ I focus on writing clean, maintainable code while delivering modern UI/UX and pr
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
  </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Waqas-Khan-CodeCanvas/Waqas-Khan-CodeCanvas/output/github-snake.svg" /> </picture> ---
 
----
 
 
