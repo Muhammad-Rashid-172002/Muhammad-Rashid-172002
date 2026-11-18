@@ -1,8 +1,7 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,50:0E3A5F,100:00C2FF&height=220&section=header&text=Muhammad%20Rashid&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20%40%20KorvenzaTech%20%E2%80%A2%20Flutter%20%26%20AI%20Product%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E3A5F,100:00C2FF&height=200&section=header&text=Muhammad%20Rashid&fontSize=50&fontColor=ffffff" width="100%"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+KorvenzaTech+%F0%9F%9A%80;AI-Powered+Mobile+Products;Flutter+%7C+Firebase+%7C+Desktop+ERP;From+Idea+%E2%86%92+MVP+%E2%86%92+Play+Store" />
 </p>
